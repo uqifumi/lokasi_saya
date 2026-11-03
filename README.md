@@ -1,4 +1,3 @@
-````md
 # Aplikasi Lokasi Saya
 
 Aplikasi **Lokasi Saya** merupakan aplikasi mobile berbasis Flutter yang digunakan untuk memperoleh dan menampilkan informasi lokasi perangkat. Aplikasi ini memanfaatkan layanan lokasi perangkat untuk mendapatkan koordinat geografis berupa latitude dan longitude, kemudian mengubah koordinat tersebut menjadi informasi alamat menggunakan proses *reverse geocoding*.
