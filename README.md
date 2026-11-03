@@ -23,13 +23,14 @@ Beberapa fitur yang tersedia dalam aplikasi ini meliputi:
 
 Halaman utama menampilkan informasi lokasi perangkat, meliputi koordinat geografis dan alamat hasil proses *reverse geocoding*.
 
-![Halaman Utama Aplikasi](lib/screenshots/Screenshot_002.png)
+<img src="lib/screenshots/Screenshot_002.png" width="25%" alt="Halaman Utama Aplikasi">
 
 ### Halaman Peta
 
 Halaman peta menampilkan posisi perangkat menggunakan marker. Pengguna dapat menggeser dan mengatur pembesaran peta serta mengembalikan tampilan ke lokasi awal.
 
-![Halaman Peta Aplikasi](lib/screenshots/Screenshot_003.png)
+<img src="lib/screenshots/Screenshot_003.png" width="25%" alt="Halaman Peta Aplikasi">
+
 
 ## Teknologi dan Package
 
@@ -134,8 +135,3 @@ https://www.openstreetmap.org/
 ## Lisensi
 
 Project ini dikembangkan sebagai bahan pembelajaran pemrograman mobile menggunakan Flutter dan Dart.
-
-```
-
-Sebelum diunggah, ganti `username` pada alamat repository dan pastikan lokasi kedua file screenshot sesuai dengan struktur folder yang tercantum.
-```
