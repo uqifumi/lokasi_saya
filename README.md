@@ -86,8 +86,6 @@ Unduh project dari GitHub menggunakan perintah:
 git clone https://github.com/uqifumi/lokasi_saya.git
 ```
 
-Ganti `username` dengan username GitHub pemilik repository.
-
 ### 2. Masuk ke Direktori Project
 
 ```bash
